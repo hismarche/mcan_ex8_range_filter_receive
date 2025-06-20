@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg\" -DF2838x=1",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device/f2838x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/mcan_ex8_range_filter_receive.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib/\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DRAM -DDEBUG -DCPU1 -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]

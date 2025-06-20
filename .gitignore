@@ -1,0 +1,34 @@
+# Code Composer Studio General
+.ccsproject
+.cproject
+.project
+.settings/
+
+# Workspace specific files (NEVER ADD THESE)
+.metadata/
+
+# Build output directories
+Debug/
+Release/
+
+# Target Configuration Files (often user-specific)
+# You might want to keep the .ccxml file if it's essential for others to use.
+# If so, remove the line below.
+*.ccxml
+
+# Generated files and build artifacts
+*.obj
+*.o
+*.out
+*.map
+*.hex
+*.bin
+*.log
+*.bak
+
+# Launch Configurations (user-specific debug/run settings)
+.launches/
+
+# System and temporary files
+*.DS_Store
+Thumbs.db

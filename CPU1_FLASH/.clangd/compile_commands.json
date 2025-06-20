@@ -1,0 +1,42 @@
+[
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/device/f2838x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/mcan_ex8_range_filter_receive.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/lwiplib.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/ethernet.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch/sys_arch.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/arch\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet/third_party/lwip/lwip-2.1.2/src/include\" -I\"C:/ti/C2000Ware_5_04_00_00/libraries/communications/ethernet\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2838x/driverlib\" -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DCPU1 -D_FLASH -DDEBUG -I\"C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg\" -DF2838x=1 -xc",
+      "file"      : "C:/Users/HismarFernandezBatre/workspace_ccstheia/mcan_ex8_range_filter_receive/CPU1_FLASH/syscfg/c2000ware_libraries.c"
+   }
+]
